@@ -43,7 +43,7 @@ This is one that can get a little complicated
 
 To use usb drives you will have to manually mount them. To do that you have to do a couple steps.
 
-I rocommend creating a directory in your home directory and will be referencing that as the mount location
+I recommend creating a directory in your home directory and will be referencing that as the mount location
 ```doas mkdir ~/usb```
 
 First identify the usb drive:
