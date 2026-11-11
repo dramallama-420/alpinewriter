@@ -1,2 +1,5 @@
-# alpinewriter
-A post install script to for alpine linux to make a writerdeck
+# Alpine Writer
+
+This is a simple installation script to set up Alpine Linux as a writer deck targeted for non Linux users.
+
+
